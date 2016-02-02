@@ -103,7 +103,7 @@ facebook_like: false
 # Oscailte Theme Settings
 oscailte:
     hire: # The "Available for Hire" widget
-        visible: false
+        visible:
             footer: false
             sidebar: true
         footer-cols: 6 # Number of columns available for the footer component, max 12
